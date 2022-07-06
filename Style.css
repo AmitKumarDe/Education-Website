@@ -539,9 +539,6 @@ footer {
 
 /** =============Media Queries(Phones) ==================*/
 @media only screen and (max-width: 600px) {
-  body {
-    background-color: red;
-  }
   .container {
     width: var(--container-width-sm);
   }
