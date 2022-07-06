@@ -392,9 +392,6 @@ footer {
 /**=========== Media Queries(Tablets) ===============*/
 
 @media only screen and (max-width: 1024px) {
-  /* body {
-    background-color: lightblue;
-  } */
   .container {
     width: var(--container-width-md);
   }
