@@ -412,6 +412,7 @@ footer {
   /** Navbar */
   .nav button {
     display: inline-block;
+    /* display: none; */
     background: transparent;
     font-size: 1.8rem;
     color: var(--color-white);
@@ -421,6 +422,7 @@ footer {
     display: none;
   }
   .nav_menu {
+    display: none;
     position: fixed;
     top: 5rem;
     right: 5%;
